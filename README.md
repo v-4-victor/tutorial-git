@@ -1,2 +1,3 @@
-# tutorial-git
+# tutorial-gi
+
 Tutorial one.
